@@ -1,0 +1,15 @@
+{
+  "generator-ui5-app": {
+    "application": "project3",
+    "namespace": "project3",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.96.16",
+    "author": "user17057",
+    "initrepo": false,
+    "tstypes": "@sapui5/ts-types-esm",
+    "tstypesVersion": "1.96.16",
+    "appId": "project3.project3",
+    "appURI": "project3/project3",
+    "setupCompleted": true
+  }
+}
