@@ -1,4 +1,3 @@
-import MessageBox from "sap/m/MessageBox";
 import Controller from "sap/ui/core/mvc/Controller";
 
 /**
@@ -7,6 +6,6 @@ import Controller from "sap/ui/core/mvc/Controller";
 export default class View1 extends Controller {
 
     public onInit(): void {
-        MessageBox.show("here is a message");
+
     }
 }

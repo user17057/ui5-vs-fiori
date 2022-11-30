@@ -30,6 +30,9 @@ server:
         debug: true
         transpileAsync: true
         transpileTypeScript: true
+        excludePatterns:
+        - /Component-preload.js
+        - /utils/locate-reuse-libs.js
     - name: fiori-tools-preview
       afterMiddleware: fiori-tools-appreload
       configuration:
